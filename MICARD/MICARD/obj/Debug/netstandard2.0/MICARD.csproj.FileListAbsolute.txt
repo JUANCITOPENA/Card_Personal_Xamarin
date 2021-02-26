@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\MICARD\MICARD\MICARD\bin\Debug\netstandard2.0\MICARD.deps.json
+C:\Users\HP\source\repos\MICARD\MICARD\MICARD\bin\Debug\netstandard2.0\MICARD.dll
+C:\Users\HP\source\repos\MICARD\MICARD\MICARD\bin\Debug\netstandard2.0\ref\MICARD.dll
+C:\Users\HP\source\repos\MICARD\MICARD\MICARD\bin\Debug\netstandard2.0\MICARD.pdb
+C:\Users\HP\source\repos\MICARD\MICARD\MICARD\obj\Debug\netstandard2.0\MICARD.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\MICARD\MICARD\MICARD\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\HP\source\repos\MICARD\MICARD\MICARD\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\HP\source\repos\MICARD\MICARD\MICARD\obj\Debug\netstandard2.0\MICARD.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\MICARD\MICARD\MICARD\obj\Debug\netstandard2.0\MICARD.AssemblyInfo.cs
+C:\Users\HP\source\repos\MICARD\MICARD\MICARD\obj\Debug\netstandard2.0\MICARD.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\MICARD\MICARD\MICARD\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\HP\source\repos\MICARD\MICARD\MICARD\obj\Debug\netstandard2.0\MICARD.dll
+C:\Users\HP\source\repos\MICARD\MICARD\MICARD\obj\Debug\netstandard2.0\ref\MICARD.dll
+C:\Users\HP\source\repos\MICARD\MICARD\MICARD\obj\Debug\netstandard2.0\MICARD.pdb
